@@ -1,0 +1,6 @@
+{
+  "name": "UniRent",
+  "description": "WebApp mobile-first per affitti di stanze e subentro P2P tra studenti universitari a Bologna e Padova.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
